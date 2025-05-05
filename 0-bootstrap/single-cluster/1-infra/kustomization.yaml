@@ -1,4 +1,5 @@
 resources:
+- argocd/namespace-pahrial.yaml
 - argocd/consolelink.yaml
 - argocd/consolenotification.yaml
 #- argocd/machine-configuration.yaml
